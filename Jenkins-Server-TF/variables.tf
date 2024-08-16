@@ -6,3 +6,6 @@ variable "sg-name" {}
 variable "instance-name" {}
 variable "key-name" {}
 variable "iam-role" {}
+variable "AZ" {}
+variable "private_key" {}
+variable "public_key" {}
